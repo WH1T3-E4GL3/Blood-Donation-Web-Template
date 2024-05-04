@@ -1,4 +1,7 @@
 # old-red-stream
+
+[<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/whxitte)
+
 The old version of project redstream website with basic functions implemented. Not responsive and less database functions with no security. You can find the new updated version (responsive, more features and new look) of this project at https://github.com/WH1T3-E4GL3/Project-Red-Stream
 
 
